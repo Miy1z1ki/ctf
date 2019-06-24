@@ -5,3 +5,8 @@
 * 赛题
 * writeup
 
+其中
+
+fact:flag{1t_1s_easy_t0_fact}
+
+web1:flag{Such_@_ea5y_try#Woo~}
